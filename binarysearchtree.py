@@ -1,5 +1,5 @@
 import unittest
-
+#assignment assigned in CS 2050 by Dr.Beaty
 class binary_search_tree:
     def __init__ (self, init=None):
         self.__value = self.__left = self.__right = None
